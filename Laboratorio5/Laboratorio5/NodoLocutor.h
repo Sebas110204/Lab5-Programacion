@@ -1,4 +1,5 @@
-#pragma once
+#ifndef NODOLOCUTOR_H
+#define NODOLOCUTOR_H
 
 #include <iostream>
 #include <string>
@@ -19,3 +20,4 @@ namespace EIF201 {
 		}
 	};
 } // namespace EIF201
+#endif // NODOLOCUTOR_H
